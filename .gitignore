@@ -3,7 +3,6 @@ node_modules/
 bundles/
 PIG/bundles/
 npm-debug.log
-
 // vim .swp
 *.swp
 .env
