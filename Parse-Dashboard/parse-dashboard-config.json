@@ -3,7 +3,7 @@
     {
       "serverURL": "http://cloud-server-t2t.prod.i63.io/parse",
       "appId": "myAppId",
-      "masterKey": "afasdfasdfasfdasfdasf",
+      "masterKey": "myMasterKey",
       "appName": "MyApp"
     }
   ]
